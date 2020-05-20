@@ -1,0 +1,8 @@
+{
+    "editor.autoSave": "on",
+    "editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "preview.openByDefault": true,
+    "workbench.colorTheme": "light",
+    "workbench.iconTheme": "vs-seti"
+}
